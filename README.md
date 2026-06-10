@@ -13,7 +13,7 @@ Button layout is based on a Neo Geo CD controller because I'm used to it, but is
 Using genuine Neo Geo controllers with a supergun + MVS board stays the best "genuine" experience out of owning a cabinet. But these controllers are horrendously expensive now. The next reasonable option with a supergun is to go with the Neo Geo CD controllers, which is a less bit on the pricey side. But if you're real cheap and like tinkering, the SNES controller perfectly does the job. So this converter.
 
 ## Is there a lag ?
-No because the code is faster than the Neo Geo I/O controller circuit.
+No because everything happens in less than a frame.
 
 ## Schematic
 ![](/PCB/Schematic.png)
